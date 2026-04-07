@@ -32,4 +32,4 @@ gcc project2.c -o project2
 ./project2
 ```
 
-Make sure `input.txt` is in the same directory as the executable.
+Make sure input file name is `input.txt` and is in the same directory as the executable.
